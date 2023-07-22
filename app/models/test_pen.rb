@@ -1,0 +1,2 @@
+class TestPen < ApplicationRecord
+end
